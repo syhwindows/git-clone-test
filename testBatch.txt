@@ -1,3 +1,7 @@
 123
+<<<<<<< HEAD
 master
 master2
+=======
+batch1
+>>>>>>> batch1
